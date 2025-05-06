@@ -3,13 +3,10 @@
   On my way to grow as a Full Stack Developer, learning something new every day.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdeali1310&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - 🎓 I'm a Computer Applications graduate with **9+ CGPA**
 - 🌱 Currently exploring and building projects with **MERN Stack** and **Next.js**
@@ -59,7 +56,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tools and Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,tailwind,redux,materialui,postman,git,github" />
 </p>

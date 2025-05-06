@@ -1,4 +1,4 @@
-<h1 align="center">It's Abdeali Dahodwala</h1>
+<h1 align="center">It's Abdeali</h1>
 <p align="center">
   On my way to grow as a Full Stack Developer, learning something new every day.
 </p>
@@ -50,7 +50,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdeali1310&show_icons=true&theme=blueberry" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeali1310&layout=compact&theme=blueberry" height="150"/>
 </p>
 

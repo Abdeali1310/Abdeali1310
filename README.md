@@ -29,7 +29,7 @@
   Your AI-powered mock interview partner to prep confidently.
 
 - **[The Urban Shelf](the-urban-shelf.netlify.app)**
-  A modern shopping cart web app built with smooth animations, performance optimization, persistent cart/orders via session storage, and a clean, accessible UI.
+- A modern shopping cart web app built with smooth animations, performance optimization, persistent cart/orders via session storage, and a clean, accessible UI.
 
 ---
 
